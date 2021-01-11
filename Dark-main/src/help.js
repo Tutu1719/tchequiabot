@@ -35,12 +35,6 @@ const help = (prefix) => {
        *OUTROS...*【✔】
        • ──── ✾ ──── •
       
-➸ Comando : *${prefix}loli*
-➸ útil em : mandar imagens aleatórias de loli
-➸ uso : basta enviar o comando\n
-➸ Comando : *${prefix}nsfwloli*
-➸ útil em : mandar imagens aleatórias de nsfw loli
-➸ uso : basta enviar o comando\n
 ➸ Comando : *${prefix}url2img*
 ➸ útil em : tirar screenshots da web
 ➸ uso : *${prefix}url2img [tipe] [url]*\n
@@ -101,6 +95,7 @@ const help = (prefix) => {
 }
 
 exports.help = help
+
 
 
 
